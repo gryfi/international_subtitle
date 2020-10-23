@@ -32,7 +32,7 @@ Although I think their uniform is not an orthodox uniform
 
 9
 00:00:43,060 --> 00:00:46,580
-Its shirt is a bit like made of cotton
+Its shirt is a bit made by cotton
 
 10
 00:00:46,580 --> 00:00:49,380
@@ -384,7 +384,7 @@ now, looks a bit energetic
 
 97
 00:06:15,460 --> 00:06:19,000
-Then please ignore the hem of my dress
+And please ignore the hem/edge of my dress
 
 98
 00:06:19,000 --> 00:06:21,990
@@ -392,15 +392,15 @@ I seem to forget to make it swing
 
 99
 00:06:21,990 --> 00:06:25,100
-And I don’t know where did I put the bow tie
+And I don’t know where did I put the bow tie of this uniform
 
 100
 00:06:25,100 --> 00:06:27,930
-So I matched a tie by myself
+For matched it, I made a bow tie from the ribbon by myself
 
 101
 00:06:27,930 --> 00:06:30,320
-But I think it shouldn’t be matched look so bad
+But I think it cannot be said that it looks not matched at all
 
 102
 00:06:52,430 --> 00:06:55,310
@@ -421,7 +421,7 @@ Hermione Jean Granger
 
 106
 00:07:06,040 --> 00:07:07,010
-but
+but,
 
 107
 00:07:07,010 --> 00:07:08,210
@@ -433,7 +433,8 @@ I still feel pretty happy
 
 109
 00:07:12,060 --> 00:07:18,420
-Antlers! I wanted to test everyone, which character was called Antlers？
+Prongs(Antlers)! I wanted to test everyone, which character has a nickname called Prongs
+(Note: Prongs can simply be said: "fork shape". As you can see the shaped horn from this animal. But, Chinese(Taiwan) used the word 鹿角 means animal "Antler". Checkout translation on https://harrypotter.fandom.com/wiki/List_of_characters_in_translations_of_Harry_Potter)
 
 110
 00:07:18,420 --> 00:07:18,450
@@ -448,7 +449,7 @@ I want to apologize to everyone
 
 113
 00:07:34,880 --> 00:07:36,450
-Sorry.
+Sorry, it is actually not good because
 
 114
 00:07:36,450 --> 00:07:39,600
@@ -456,23 +457,23 @@ I don't have Slytherin uniform
 
 115
 00:07:39,980 --> 00:07:44,100
-As I said, I was a person who sees things be black and white
+As I said, long before I was a person who sees things be black and white
 
 116
 00:07:44,100 --> 00:07:45,110
-black-and-white thinking
+black-and-white thinking (the right is right, wrong is wrong, right and wrong cannot be mixed up)
 
 117
 00:07:45,110 --> 00:07:47,090
-This is my personality
+It must be either black or white of personality
 
 118
 00:07:47,090 --> 00:07:48,680
-but
+but then one day
 
 119
 00:07:48,680 --> 00:07:52,870
-I reread the novel a few times after I grow up
+I re-read the novel a few times after I grow up
 
 120
 00:07:52,870 --> 00:07:54,500
@@ -500,7 +501,7 @@ So I read the Harry Potter novels all day long
 
 126
 00:08:06,710 --> 00:08:12,180
-From episode 1 to ...  how many episodes have been published at that time?  Episode 5?
+From episode 1 to ... how many episodes have been published at that time? Episode 5?
 
 127
 00:08:12,180 --> 00:08:13,870
@@ -512,31 +513,31 @@ and I started another round from episode 1 to 5
 
 129
 00:08:15,480 --> 00:08:17,040
-Then another round.  Again and again.
+Then another round. Again and again.
 
 130
 00:08:17,040 --> 00:08:21,710
-I used to take a flashlight and read stories of Harry Potter in the quilt.
+I used to take a flashlight and read stories of Harry Potter inside the blanket on the bed.
 
 131
 00:08:21,710 --> 00:08:24,200
-I felt that I am doing the same thing 
+Then, I think I look very similar to what Harry Potter also did
 
 132
 00:08:24,300 --> 00:08:27,910
-Like Harry Potter hides in the quilt and 
+During the holiday, I just hide in the blanket
 
 133
 00:08:28,000 --> 00:08:31,480
-reads the magic books during the holidays.
+Being inside the blanket, it feels that I reading magic books 
 
 134
 00:08:32,110 --> 00:08:34,230
-Oh, wait! I have to apologize to everyone.
+Oh, wait! I have to apologize to everyone. (Why I changed the topic)
 
 135
 00:08:34,260 --> 00:08:37,450
-I don't have clothes of Slytherin
+I actually want to explain why I don't have clothes of Slytherin before
 
 136
 00:08:37,520 --> 00:08:39,430
@@ -781,4 +782,5 @@ He did a very detailed analysis of Harry Potter
 196
 00:11:11,680 --> 00:11:12,900
 If you are interested, you can visit his channel
+
 
