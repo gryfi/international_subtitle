@@ -300,7 +300,7 @@ As result,
 
 76
 00:04:23,740 --> 00:04:25,380
-I should made it looks very smart.
+I should make it look very smart.
 
 77
 00:04:25,380 --> 00:04:27,140
@@ -541,11 +541,11 @@ I actually want to explain why I don't have clothes of Slytherin before
 
 136
 00:08:37,520 --> 00:08:39,430
-But when I grew up, I realized that
+But when I grew up
 
 137
 00:08:39,430 --> 00:08:43,030
-we aren't black and white in the world.
+I found that in this world, it is not just white or black(It can be grey)
 
 138
 00:08:43,030 --> 00:08:44,010
